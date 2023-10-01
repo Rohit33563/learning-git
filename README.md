@@ -11,6 +11,7 @@ I am learning [Web Development](https://www.youtube.com/playlist?list=PLSH9gf0XE
 - [gagandeepsingh101](https://github.com/gagandeepsingh101)
 - [saikumarseepana](https://github.com/saikumarseepana)
 - [jayant-baid](https://github.com/jayant-baid)
+- [Rohit33563](https://github.com/Rohit33563)
 
 # skills to learn
 - HTML
