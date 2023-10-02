@@ -3,7 +3,6 @@ I am learning [Web Development](https://www.youtube.com/playlist?list=PLSH9gf0XE
 # Students 
 
 - [Vishal-raj-1](https://github.com/Vishal-raj-1)
-- srsr
 - [shivamkumar-007](https://github.com/shivamkumar-007)
 - [subha-guchait](https://github.com/subha-guchait)
 - [KartikeyTiwari121](https://github.com/KartikeyTiwari121)
